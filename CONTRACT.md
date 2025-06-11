@@ -8,11 +8,6 @@
 - **GitHub Username:** Cshgill012
 - **Availability:** Weekdays anytime after 5pm EST. Weekends I am mostly free as long as there is a 24/48hour notice
 
-**Shawn Maybush**
-- **Email:** smayb001@odu.edu
-- **GitHub Username:** smayb001
-- **Availability:** Weekdays anytime after 5pm EST. Weekends I am mostly free as long as there is a 24/48hour notice
-
 **Cody Donahue**
 - **Email:** cdona005@odu.edu
 - **GitHub Username:** cdona005
