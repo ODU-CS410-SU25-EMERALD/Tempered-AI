@@ -1,9 +1,9 @@
 ---
-title: Our Team
+title: Home
 permalink: /
 ---
 
-[Home](/) | [Team](/team/) | [Contact](/contract/)
+[Home](/) | [Team](/team/) | [Contract](/contract/)
 
 ---
 # Tempered-AI

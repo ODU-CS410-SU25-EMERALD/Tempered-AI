@@ -1,9 +1,9 @@
 ---
-title: Our Team
+title: Team
 permalink: /team/
 ---
 
-[Home](/) | [Team](/team/) | [Contact](/contract/)
+[Home](/) | [Team](/team/) | [Contract](/contract/)
 
 ---
 
