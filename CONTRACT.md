@@ -1,3 +1,9 @@
+---
+layout: default
+title: Our Team
+permalink: /contract/
+---
+
 # CS 410: Emerald Group (AI) Contract 
 
 
