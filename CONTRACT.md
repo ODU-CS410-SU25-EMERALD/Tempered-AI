@@ -3,7 +3,8 @@ title: Contract
 permalink: /contract/
 ---
 
-[Home](/) | [Team](/team/) | [Contract](/contract/)
+[Home]({{ site.baseurl }}/) | [Team]({{ site.baseurl }}/team/) | [Contract]({{ site.baseurl }}/contract/)
+
 
 ---
 
