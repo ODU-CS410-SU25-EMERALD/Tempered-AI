@@ -1,10 +1,9 @@
 ---
-layout: default
 title: Our Team
 permalink: /team/
 ---
 
-[Home](/) | [Team](/team/) | [Contact](/contact/)
+[Home](/) | [Team](/team/) | [Contact](/contract/)
 
 ---
 
