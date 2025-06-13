@@ -4,6 +4,10 @@ title: Our Team
 permalink: /contract/
 ---
 
+[Home](/) | [Team](/team/) | [Contact](/contact/)
+
+---
+
 # CS 410: Emerald Group (AI) Contract 
 
 

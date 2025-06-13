@@ -4,6 +4,10 @@ title: Our Team
 permalink: /team/
 ---
 
+[Home](/) | [Team](/team/) | [Contact](/contact/)
+
+---
+
 # Meet our team
 
 
