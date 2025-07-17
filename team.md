@@ -22,7 +22,7 @@ Dillon Sapp served in the U.S. Navy as a Nuclear Electrician for six years prior
 ![Dillon Sapp](/assets/images/Dillon_Bio.jpg)
 
 ## Cody Donahue
- Cody Donahue served in the US Navy as a Nuclear Machinist Mate. He currently lives in Colorado Springs and is a Senior and Old Dominion University pursuing his B.S in Computer Science. ​After graduation, he hopes to work in backend development with government contractors.
+ Cody Donahue served in the US Navy as a Nuclear Machinist Mate. He currently lives in Colorado Springs and is a Senior at Old Dominion University pursuing his B.S in Computer Science. ​After graduation, he hopes to work in backend development with government contractors.
 
 ![Cody Donahue](/assets/images/Cody_Bio.jpg)
 
