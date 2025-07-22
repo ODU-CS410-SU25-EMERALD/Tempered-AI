@@ -22,7 +22,7 @@ As ChatGPT, Grammarly, and AI search engines become more popular, many users, es
 
 ## Customer and End User
 
-Still needed
+EduSense will be most effective in the hands of educators and students as the end user. Instructors will know best how to implement our platform and maximize student benefit. We will focus predominantly on school administrators as our customer base. They are typically the ones who determine what tools are available to educators and students and have the knowledge needed to determine if a given tool is useful in their particular case.
 
 ## Solution Statement
 
