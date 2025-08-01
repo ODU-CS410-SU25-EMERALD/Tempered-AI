@@ -28,3 +28,6 @@ EduSense will be most effective in the hands of educators and students as the en
 
 Our goal is to build EduSense, a mobile app and web application that helps students and educators use AI tools more intentionally. Instead of giving direct answers, the app will encourage users to use their own thought process first with the help of guided questions, reflective prompts, and challenge modes that limit or delay AI input. The end goal is to help students better understand the material.​
 The student's usage history will also be accessible to educators. This will allow them to identify problem areas in student comprehension and improve their lesson plans. Including integration with Canvas so that it can recognize the context of student questions.
+
+
+{% include footer.md %}

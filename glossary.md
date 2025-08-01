@@ -8,6 +8,7 @@ permalink: /glossary/
 ---
 
 # Glossary
+
 ## Artificial Intelligence (AI)
 Ability for a computer of machine to perform tasks that typically require human intelligence. Ex. Problem solving, languages, or understanding languages.
 
