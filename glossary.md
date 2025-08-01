@@ -1,5 +1,5 @@
 ---
-title: References
+title: Glossary
 permalink: /glossary/
 ---
 
