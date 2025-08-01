@@ -47,3 +47,5 @@ Christian Biehn is a Computer Science student at ODU. He is originally from Germ
 Alex Gignac is a rising senior in Computer Science at Old Dominion University and is expected to graduate in 2026. In high school, she had attended the Advanced Technology Center for their two year Software & Game Development program, where she first became familiar with programming. She has also had consistently high grades and GPA throughout primary and secondary education, graduating from Kempsville High School with highest honors.
 
 ![Alex Gignac](/assets/images/Alex_Bio.jpg)
+
+{% include footer.md %}

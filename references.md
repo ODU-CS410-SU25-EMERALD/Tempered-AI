@@ -29,3 +29,5 @@ krvarshney.github.io/pubs/RastogiZWVDT_cscw2022.pdf, https://doi.org/10.1145/351
 Zhai, Chunpeng, et al. “The Effects of Over-Reliance on AI Dialogue Systems on Students’ Cognitive Abilities: A Systematic
 Review.” Smart Learning Environments, vol. 11, no. 28, 18 June 2024, pp. 1–37,
 slejournal.springeropen.com/articles/10.1186/s40561-024-00316-7, https://doi.org/10.1186/s40561-024-00316-7.
+
+{% include footer.md %}

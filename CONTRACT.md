@@ -58,3 +58,5 @@ permalink: /contract/
 - No team member will allow more than a week to lapse without making some substantive & visible contribution to the project.
 - Work that only exists on a person’s own PC or in a person’s own directories does not qualify as visible. We will use a single organization/repository in Github to store all associated documentation, code files, and related project information for submission.
 - Each member will submit their first submission 72 hours prior to its due date. Reviews and feedback must be submitted to the requester within 24 hours to give them as much time to make changes.
+
+{% include footer.md %}

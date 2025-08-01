@@ -32,3 +32,5 @@ A diagram showing the major hardware and software components of product and how 
 
 ## Usage Tracking
 The process of recording how users interact with the system, such as which features they use or how they engage with AI prompts.
+
+{% include footer.md %}

@@ -1,1 +1,2 @@
-[Visit Old Dominion University](https://www.odu.edu)
+[ODU](https://www.odu.edu)
+[ODU Computer Science](https://www.odu.edu/computer-science)

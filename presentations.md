@@ -33,3 +33,5 @@ If the presentation does not load, you can also [download it here]({{ site.baseu
 </iframe>
 
 If the presentation does not load, you can also [download it here]({{ site.baseurl }}/assets/design.pdf).
+
+{% include footer.md %}
