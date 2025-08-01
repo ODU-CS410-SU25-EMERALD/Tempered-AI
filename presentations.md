@@ -20,11 +20,17 @@ If the presentation does not load, you can also [download it here]({{ site.baseu
 # Final Design Presentation
 
 <iframe src="{{ site.baseurl }}/assets/design.pdf"
-        width="200%"
+        width="100%"
         height="600px">
 </iframe>
 
 If the presentation does not load, you can also [download it here]({{ site.baseurl }}/assets/design.pdf).
 
-# Working Prototype Presentation
+# Working Draft Prototype Design Presentation
 
+<iframe src="{{ site.baseurl }}/assets/prototype.pdf"
+        width="100%"
+        height="600px">
+</iframe>
+
+If the presentation does not load, you can also [download it here]({{ site.baseurl }}/assets/design.pdf).
