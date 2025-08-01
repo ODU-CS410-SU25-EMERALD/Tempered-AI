@@ -3,8 +3,7 @@ title: Contract
 permalink: /contract/
 ---
 
-[Home]({{ site.baseurl }}/) | [Team]({{ site.baseurl }}/team/) | [Presentations]({{ site.baseurl }}/presentations/) | [Contract]({{ site.baseurl }}/contract/)
-
+[Home]({{ site.baseurl }}/) | [Team]({{ site.baseurl }}/team/) | [Presentations]({{ site.baseurl }}/presentations/) | [Contract]({{ site.baseurl }}/contract/) | [References]({{ site.baseurl }}/references/)
 ---
 
 # CS 410: Emerald Group (AI) Contract 
