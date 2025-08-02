@@ -3,23 +3,17 @@
   width: 95% !important;
   margin: 0 auto;
   padding: 20px;
-  display: flex;
 }
 
-header, .site-header {
-  flex: 0 0 250px; 
-  padding: 10px;
-}
-
-.wrapper .inner, 
-.page-content {
-  flex: 1;
-  max-width: 1000px !important;
-  margin-left: 0 !important;
-  padding-left: 40px;
+.wrapper .inner {
+  max-width: 950px !important;
 }
 
 body, p {
   font-size: 18px;
   line-height: 1.6;
+}
+
+h1, h2, h3 {
+  margin-top: 1.2em;
 }
