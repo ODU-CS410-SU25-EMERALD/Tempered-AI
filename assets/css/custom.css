@@ -1,6 +1,24 @@
-.wrapper, .wrapper .inner {
+.wrapper, 
+.wrapper .inner {
   max-width: 1100px !important;
   width: 90% !important;
-  padding: 20px;
   margin: 0 auto;
+  padding: 20px;
+}
+
+section,
+article,
+.wrapper .inner,
+.page-content {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+body, p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+ul, ol, pre, code {
+  max-width: 100% !important;
 }
