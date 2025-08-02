@@ -1,22 +1,16 @@
 .wrapper {
   max-width: 1200px !important;
-  width: 90% !important;
   margin: 0 auto;
   padding: 20px;
 }
 
-.wrapper .inner, 
-.page-content {
-  max-width: 100% !important;
-  margin-left: 260px; 
+.wrapper .inner {
+  max-width: 900px !important; 
+  margin-left: 280px !important; 
   padding-right: 20px;
 }
 
 body, p {
   font-size: 18px;
   line-height: 1.6;
-}
-
-ul, ol, pre, code {
-  max-width: 100%;
 }
