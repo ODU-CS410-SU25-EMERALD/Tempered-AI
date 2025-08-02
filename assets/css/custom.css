@@ -1,13 +1,19 @@
 .wrapper {
   max-width: 1200px !important;
+  width: 95% !important;
   margin: 0 auto;
   padding: 20px;
 }
 
 .wrapper .inner {
-  max-width: 900px !important; 
-  margin-left: 280px !important; 
+  max-width: 1000px !important; 
+  margin-left: 200px !important; 
   padding-right: 20px;
+}
+
+header, .site-header {
+  width: 180px;
+  padding: 10px;
 }
 
 body, p {
