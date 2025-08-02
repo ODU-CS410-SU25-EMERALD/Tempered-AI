@@ -1,3 +1,9 @@
 title: Tempered AI
 theme: jekyll-theme-minimal
 baseurl: "/Tempered-AI"
+
+include:
+  - assets/css
+
+plugins:
+  - jekyll-feed
