@@ -7,3 +7,9 @@ include:
 
 plugins:
   - jekyll-feed
+
+  defaults:
+  - scope:
+      path: ""
+    values:
+      include: custom-header.html
