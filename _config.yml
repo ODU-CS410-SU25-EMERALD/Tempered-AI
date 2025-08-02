@@ -2,14 +2,12 @@ title: Tempered AI
 theme: jekyll-theme-minimal
 baseurl: "/Tempered-AI"
 
+logo: /assets/images/logo.png
+
 include:
   - assets/css
 
 plugins:
   - jekyll-feed
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      include: custom-header.html
+
