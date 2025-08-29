@@ -7,7 +7,7 @@ permalink: /labs/index.html
 
 ---
 
-# Final Feasibility Presentation
+# Lab 1 Outline
 
 <iframe src="{{ site.baseurl }}/assets/lab1.pdf"
         width="100%"
