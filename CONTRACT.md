@@ -15,37 +15,37 @@ permalink: /contract/
 **Hannah Gill**
 - **Email:** Hgill012@odu.edu
 - **GitHub Username:** Cshgill012
-- **Availability:** Weekdays anytime after 5pm EST. Weekends I am mostly free as long as there is a 24/48hour notice
+- **Availability:** Availability: Weekdays anytime after 5pm EST. Weekends I am mostly free as long as there is a 24/48hour notice  
 
 **Cody Donahue**
 - **Email:** cdona005@odu.edu
 - **GitHub Username:** cdona005
-- **Availability:** After 2:30 EST on Thursdays, can make most other times work with notice
+- **Availability:** I have class almost every day at random times, but should be available everyday around 7pm, all day Friday, and weekends with notice. Can possibly make other times work with notice
 
 **Zemi Gebreyohannes**
 - **Email:** zgebr001@odu.edu
 - **GitHub Username:** ZemYG21
-- **Availability:** I’m available on weekdays any time after 2:00 PM, except Wednesdays from 5:30 to 9:30 PM. I'm also free on weekends with 24 hour notice. 
+- **Availability:** I’m available between 3:00 PM and 5:30 PM on Mondays and Wednesdays, after 4:30 PM on Tuesdays and Thursdays, and after 3:00 PM on Fridays. I also have flexibility in the evenings throughout the week. I’m mostly free with 24HR notice during weekends.
 
 **Alex Gignac**
 - **Email:** agign001@odu.edu
 - **GitHub Username:** Coola101
-- **Availability:** Employed part-time with a highly variable schedule. Can take time off for group meetings in the future, but may miss the first few. Unavailable 4-8pm Sundays & after 8pm Saturdays.
+- **Availability:** Full-time student. I’m on-campus for most of Tuesday/Thursday, and the afternoons on Fridays. I’m also unavailable after 7pm on Saturdays and 4pm on Sundays.
 
 **Dillon Sapp**
 - **Email:** dsapp001@odu.edu
 - **GitHub Username:** klevvergirl
-- **Availability:** I am employed full-time and work remotely about 50% of the year; the other 50% is on-site. I am typically available at any time when I am remote. When on-site, I am only available after 7 p.m. EST. I am available any time during the weekend with 24 hours’ notice.
+- **Availability:** I am employed full-time and work remotely about 50% of the year; the other 50% is on-site. I am typically available at any time when I am remote. When on-site, I am only available after 7 p.m. EST. I am typically available during the weekend with 24 hours’ notice.
 
 **Brianna Thomas**
 - **Email:** Bthom083@odu.edu
 - **GitHub Username:** BriaTheCreator
-- **Availability:** Im usually available on the weekdays from 8am to 5 pm> After that I babysit like 7 kids.
+- **Availability:** Weekdays before 4pm EST after that i have work until 11
 
 **Christian Biehn**
 - **Email:** cbieh001@odu.edu
 - **GitHub Username:** cbieh001
-- **Availability:** Weekdays any time after 6pm EST. I could make it before that in urgent cases, but I’d most likely be driving home and won’t be at my computer. I do technically have lectures on Thursdays from 5:30pm – 9:20pm but I usually don’t attend them and instead watch the recordings. Weekends I am mostly free as long as there is a 24/48hour notice.
+- **Availability:** Weekdays any time after 6:30pm EST except for Mondays (lecture from 7:25PM to 10:05PM). I could make it before that in urgent cases, but I’d most likely be driving home and won’t be at my computer. On weekends, I am mostly free as long as there is a 24 hour notice.
 
 ## Expectations:
 
