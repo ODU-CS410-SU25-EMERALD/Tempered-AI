@@ -34,7 +34,7 @@ If the presentation does not load, you can also [download it here]({{ site.baseu
 
 If the presentation does not load, you can also [download it here]({{ site.baseurl }}/assets/design.pdf).
 
-# Final Prototype Design Presentation
+# Final Prototype Presentation
 
 <iframe src="{{ site.baseurl }}/assets/prototype.pdf"
         width="100%"
