@@ -41,6 +41,6 @@ If the presentation does not load, you can also [download it here]({{ site.baseu
         height="600px">
 </iframe>
 
-If the presentation does not load, you can also [download it here]({{ site.baseurl }}/assets/design.pdf).
+If the presentation does not load, you can also [download it here]({{ site.baseurl }}/assets/prototype.pdf).
 
 {% include footer.md %}
