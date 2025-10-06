@@ -7,6 +7,15 @@ permalink: /presentations/
 
 ---
 
+# Final Societal Problem Presentation
+
+<iframe src="{{ site.baseurl }}/assets/societal.pdf"
+        width="100%"
+        height="600px">
+</iframe>
+
+If the presentation does not load, you can also [download it here]({{ site.baseurl }}/assets/societal.pdf).
+
 # Final Feasibility Presentation
 
 <iframe src="{{ site.baseurl }}/assets/feasibility.pdf"
@@ -25,7 +34,7 @@ If the presentation does not load, you can also [download it here]({{ site.baseu
 
 If the presentation does not load, you can also [download it here]({{ site.baseurl }}/assets/design.pdf).
 
-# Working Draft Prototype Design Presentation
+# Final Prototype Design Presentation
 
 <iframe src="{{ site.baseurl }}/assets/prototype.pdf"
         width="100%"
