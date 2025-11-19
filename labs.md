@@ -7,14 +7,11 @@ permalink: /labs/
 
 ---
 
-# Lab 1:
-[Lab 1 - Outline & Individual Labs]({{ site.baseurl }}/labs/lab1)
+<h2><a href="{{ site.baseurl }}/labs/lab1">Lab 1: Outline & Individual Labs</a></h2>
 
-# Lab 2:
-[Lab 2 - Group Lab & Individual Labs]({{ site.baseurl }}/labs/lab2)
+<h2><a href="{{ site.baseurl }}/labs/lab2">Lab 2: Group Lab & Individual Labs</a></h2>
 
-# Lab 3:
-[Lab 3 - (coming soon)]({{ site.baseurl }}/labs/lab3)
+<h2><a href="{{ site.baseurl }}/labs/lab3">Lab 3 (coming soon)</a></h2>
 <br>
 <br>
 <br>
