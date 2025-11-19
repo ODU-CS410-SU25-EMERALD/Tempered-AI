@@ -10,4 +10,5 @@ include:
 plugins:
   - jekyll-feed
 
-
+github:
+  repository: ODU-CS410-SU25-EMERALD/fy25-06-Emerald-TemperedAI
