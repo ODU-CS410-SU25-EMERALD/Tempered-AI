@@ -1,6 +1,6 @@
 ---
 title: Labs
-permalink: /labs/index.html
+permalink: /labs3/index.html
 ---
 
 {% include header.md %}
