@@ -6,6 +6,7 @@ permalink: /labs/
 {% include header.md %}
 
 ---
+
 # Lab 1:
 [Lab 1 - Outline & Individual Labs]({{ site.baseurl }}/labs/lab1)
 
@@ -14,6 +15,9 @@ permalink: /labs/
 
 # Lab 3:
 [Lab 3 - (coming soon)]({{ site.baseurl }}/labs/lab3)
+<br>
+<br>
+<br>
 
 
 {% include footer.md %}
