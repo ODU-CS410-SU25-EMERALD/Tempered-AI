@@ -8,13 +8,13 @@ permalink: /labs/
 ---
 
 # Lab 1
-[# Lab 1]({{ site.baseurl }}/labs/lab1)
+[click here]({{ site.baseurl }}/labs/lab1)
 
 # Lab 2
+[click here]({{ site.baseurl }}/labs/lab2)
 
-
-# Lab 3
-
+# Lab 3 (coming soon)
+[click here]({{ site.baseurl }}/labs/lab3)
 
 
 {% include footer.md %}
