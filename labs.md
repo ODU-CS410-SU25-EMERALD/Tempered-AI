@@ -8,7 +8,7 @@ permalink: /labs/
 ---
 
 # Lab 1
-[Lab1]({{ site.baseurl }}/labs/lab1)
+[# Lab 1]({{ site.baseurl }}/labs/lab1)
 
 # Lab 2
 
