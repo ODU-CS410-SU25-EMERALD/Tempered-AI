@@ -3,7 +3,7 @@ title: Lab 2
 permalink: /labs/lab2/index.html
 ---
 
-{% include header.md %}
+{% include header_labs.md %}
 
 ---
 
