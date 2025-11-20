@@ -9,6 +9,10 @@ permalink: /labs/lab3/
 
 # Lab 3
 
-[EduSense Wiki](https://odu-cs410-su25-emerald.github.io/Tempered-AI-Wiki/)
+Lab 3 revolved around the creation of the [EduSense Wiki](https://odu-cs410-su25-emerald.github.io/Tempered-AI-Wiki/).
+<br>
+<br>
+<br>
+
 
 {% include footer.md %}
